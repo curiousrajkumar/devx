@@ -1,0 +1,19 @@
+<svg width="420" height="120" viewBox="0 0 420 120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="120" fill="black"/>
+
+  <!-- Logo Icon -->
+  <polygon points="40,90 80,30 120,90" fill="white"/>
+
+  <!-- Text -->
+  <text x="150" y="75"
+        font-family="Inter, Arial, Helvetica, sans-serif"
+        font-size="44"
+        fill="white"
+        font-weight="600"
+        letter-spacing="2">
+        R1devx
+  </text>
+
+  <!-- Accent Line -->
+  <rect x="150" y="85" width="160" height="4" fill="#00E5FF"/>
+</svg>
